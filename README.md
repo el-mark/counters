@@ -9,7 +9,6 @@ Create a simple counter application that can do the following:
 * Delete a counter
 * Show a sum of all the counter values
 * Implement sorting counters by title and by amount
-* It must persist data back to the server (using the API we're providing you)
 * A text based searchbar 
 * A section where we can filter counters by the following rules:
   * Less than a given value that we can change (let's say in an input)
